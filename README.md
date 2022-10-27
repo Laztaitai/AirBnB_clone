@@ -65,5 +65,5 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 
-- [Derrick Maina](https://github.com/)
 - **Lateedah Lazatin** - [llateedah@gmail.com](https://github.com/Laztaitai)
+- **Derrick Maina** - [derrickmaina18@gmail.com](https://github.com/Derrickmaina18)
